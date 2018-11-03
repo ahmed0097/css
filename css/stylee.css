@@ -1,0 +1,41 @@
+.box {
+    background-image: url(https://imgur.com/pd99kx2.jpg);
+    padding-top: 150px;
+    padding: 100px;
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration-line: underline;
+}
+
+
+.content1 {
+    display:flex;
+    justify-content: center;
+    margin:1px;
+    padding: 30px;
+}
+
+.con{
+   position: relative;
+   text-align: center;
+   margin: 1px;
+   padding:30px;
+   background-color: orange;
+   
+}
+.content1 :hover{
+    border: 5px solid black;
+}
+.con1{
+   position: relative;
+   text-align: center;
+   margin:1px;
+   padding:30px;
+   background-color:brown;
+}
+
+
